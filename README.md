@@ -1,10 +1,10 @@
-#DOCKER-COPMOSE BOOTSTRAP
-##PHP7.4, nginx, postgres db, postgres test db
+# DOCKER-COPMOSE BOOTSTRAP
+## PHP7.4, nginx, postgres db, postgres test db
 
-###start:
+### start:
 docker-compose up -d
 
-###stop:
+### stop:
 docker-compose down
 
 ### Enter db
